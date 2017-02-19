@@ -1,12 +1,9 @@
-.DS_Store
+/.DS_Store
 /target/*
 .settings/*
 .metadata
 .project
 .classpath
-
 .springBeans
-
 *.swp
-
 *.war
