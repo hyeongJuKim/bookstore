@@ -7,3 +7,6 @@
 .springBeans
 *.swp
 *.war
+
+
+src/main/resources/devfun/bookstore/config/jdbc.properties
